@@ -12,7 +12,7 @@
 - Rust projects, especially those focused on Game Development or web development.
 
 📫 How to reach me ...
-- Email: your.email@example.com
+- Email: info.email@example.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 
